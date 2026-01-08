@@ -3,14 +3,14 @@ updates:
   - package-ecosystem: "gradle"
     directory: "/kotlin-keywords-app"
     schedule:
-      interval: "daily"
+      interval: "yearly"
 
   - package-ecosystem: "gradle"
     directory: "/test-app"
     schedule:
-      interval: "daily"
+      interval: "yearly"
 
   - package-ecosystem: "gradle"
     directory: "/test-app-2r"
     schedule:
-      interval: "daily"
+      interval: "yearly"
